@@ -1,2 +1,2 @@
-# dockerSarm_vagrant
+# dockerSwarm_vagrant
 Definição de um Docker swarm local com vagrant
